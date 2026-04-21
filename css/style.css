@@ -6,7 +6,7 @@
     src: url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunGothicYetHangul/NanumBarunGothic-YetHangul.eot?#iefix) format("embedded-opentype"), url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunGothicYetHangul/NanumBarunGothic-YetHangul.woff2) format("woff2"), url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunGothicYetHangul/NanumBarunGothic-YetHangul.woff) format("woff"), url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunGothicYetHangul/NanumBarunGothic-YetHangul.ttf) format("truetype");
 }
 body{
-    font-size:16px; font-family:'NanumBareunGothicOldHangeul', '맑은 고딕', sans-serif;
+    font-size:12px; font-family:'NanumBareunGothicOldHangeul', '맑은 고딕', sans-serif;
     color:#333; background:#aeec1c;
 }
 .header{width:100%; height:100px; position:relative;}
@@ -36,7 +36,7 @@ section:not(.set) li{
     align-items:center;
 }
 .name{text-align:center; margin-top:20px;}
-span{font-size:20px;}
+span{font-size:16px;}
 img{margin:0 auto;}
 .wrap{width:90%;}
 .window li, .etc li{height:220px !important;}
@@ -47,7 +47,7 @@ img{margin:0 auto;}
 }
 button{
     display:block; width:100px; height:40px; border-radius:20px;
-    border:1px solid #f60; background:#fff; font-size:16px;
+    border:1px solid #f60; background:#fff; font-size:14px;
     font-weight:bold;
 }
 section{display:none;}
