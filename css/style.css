@@ -52,3 +52,4 @@ button{
 }
 section{display:none;}
 section.active{display:block;}
+.strong{font-size:20px; font-weight:bold;}
